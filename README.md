@@ -42,6 +42,5 @@ Players can register/login, play, and compete for the best score.
 ---
 
 ## 👤 Author
-**Your Name**  
-- GitHub: https://github.com/WorldlySage03
-- Linkedin: https://www.linkedin.com/in/mdtasinabsar/
+- [Md. Tasin Absar](https://github.com/WorldlySage03/)
+- [Shahid Mohammed Rokon Uddin (Shawon)](https://github.com/Firewafer)

@@ -41,6 +41,6 @@ Players can register/login, play, and compete for the best score.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 - [Md. Tasin Absar](https://github.com/WorldlySage03/)
 - [Shahid Mohammed Rokon Uddin (Shawon)](https://github.com/Firewafer)
